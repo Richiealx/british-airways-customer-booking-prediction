@@ -1,4 +1,4 @@
-# ✈️ British Airways – Customer Booking Propensity Prediction  
+# ✈️ British Airways-Customer Booking Propensity Prediction  
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-orange.svg)  
@@ -48,7 +48,7 @@ Dataset: **50,000 simulated booking records** provided by Forage.
 - Ancillaries: `wants_extra_baggage`, `wants_preferred_seat`, `wants_in_flight_meals`  
 - Target: `booking_complete`  
 
-**Note**: The dataset is not redistributed here. Please download `customer_booking.csv` from Forage and place it under:  
+**Note**: The dataset is not redistributed here. Please download `customer_booking.csv` from Forage.  
 
 
 
