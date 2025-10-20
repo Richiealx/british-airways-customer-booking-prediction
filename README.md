@@ -134,7 +134,7 @@ Dataset: **50,000 simulated booking records** provided by Forage.
 - **Activate Top-Decile**: Target the top 10% by propensity score with **low-cost channels** (email/app/loyalty). Expect ~3× uplift in booking conversion.  
 - **Offer Design**: A/B test bundles (extra baggage, seat selection) among high-propensity customers; optimise by market/route.  
 - **MLOps & Monitoring**:  
-  - Retrain every 3–6 months on fresh data  
+  - Retrain every 3-6 months on fresh data  
   - Monitor PR-AUC and Precision@k for drift  
   - Add fairness checks across regions and customer groups  
 
