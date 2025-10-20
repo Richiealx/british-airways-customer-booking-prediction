@@ -23,7 +23,7 @@ The analysis demonstrates **end-to-end applied data science**:
 > **Headline results:**  
 > - Holdout ROC-AUC: **0.794**  
 > - Holdout PR-AUC: **0.392**  
-> - Precision@Top-10%: **43.8%** (~**2.9×** lift vs baseline booking rate of 15%)  
+> - Precision@Top-10%: **43.8%** (**2.9×** lift vs baseline booking rate of 15%)  
 
 ---
 
@@ -33,7 +33,7 @@ Converting flight searchers into confirmed bookings is a **core revenue lever**.
 The goal is to **rank customers by booking likelihood**, enabling British Airways to focus low-cost marketing outreach (email, app notifications, loyalty nudges) on the **highest-propensity segments**.  
 
 - **Target variable:** `booking_complete` (1 = booked, 0 = not booked)  
-- **Baseline booking rate:** ~15%  
+- **Baseline booking rate:** 15%  
 
 ---
 
